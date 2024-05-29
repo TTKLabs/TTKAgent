@@ -20,7 +20,7 @@ TTKAgent is a lightweight agent designed to facilitate communication between an 
 1. Clone the TTKAgent repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/TTKAgent.git
+    git clone https://github.com/TTKLabs/TTKAgent.git
     ```
 
 2. Navigate to the project directory:
