@@ -40,14 +40,20 @@ TTKAgent is a lightweight agent designed to facilitate communication between an 
     ```bash
     chmod +x build.sh
     ```
+5. Install the required packages
 
-5. Run the builder script to compile the code:
+```bash
+go get github.com/eclipse/paho.mqtt.golang
+go get github.com/sevlyar/go-daemon
+```
+
+6. Run the builder script to compile the code:
 
     ```bash
     ./build.sh
     ```
 
-6. Once the compilation process is complete, you'll find the compiled binaries in the `build` directory.
+7. Once the compilation process is complete, you'll find the compiled binaries in the `build` directory.
 
 ## Usage
 
