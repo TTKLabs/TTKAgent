@@ -42,10 +42,10 @@ TTKAgent is a lightweight agent designed to facilitate communication between an 
     ```
 5. Install the required packages
 
-```bash
-go get github.com/eclipse/paho.mqtt.golang;
-go get github.com/sevlyar/go-daemon
-```
+    ```bash
+    go get github.com/eclipse/paho.mqtt.golang;
+    go get github.com/sevlyar/go-daemon
+    ```
 
 6. Run the builder script to compile the code:
 
