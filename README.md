@@ -38,13 +38,13 @@ TTKAgent is a lightweight agent designed to facilitate communication between an 
 4. Use the provided builder script to compile the code for multiple platforms. Ensure the script is executable:
 
     ```bash
-    chmod +x builder.sh
+    chmod +x build.sh
     ```
 
 5. Run the builder script to compile the code:
 
     ```bash
-    ./builder.sh
+    ./build.sh
     ```
 
 6. Once the compilation process is complete, you'll find the compiled binaries in the `build` directory.
